@@ -1,6 +1,7 @@
 ---
 BasedOnStyle: google
 IndentWidth: 4
-
+Tab: 4U
+seTab: Always
 SortIncludes: true
 ColumnLimit: 300
